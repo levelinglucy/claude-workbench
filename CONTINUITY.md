@@ -27,12 +27,22 @@
 ## Current state
 
 - [x] Repo created and structure set up (2026-11-20)
-- [ ] First bug-hunt pass: Elythia, Devoured-Web, Worldheart (the most active repos)
-- [ ] Build a reusable scanner in `tools/` (syntax check, pyflakes-style lint, Pythonista-compat notes)
+- [x] `tools/test_sweep/` v1 built (runs every test file in a temp copy)
+- [x] Elythia first pass @ `2bebcbc`: filed Elythia#1 and Elythia#2. See `bug-reports/elythia/INDEX.md`
+- [ ] Elythia second pass: 59 import-error tests, possibly flaky subprocess tests, 8 unexamined failures
+- [ ] Devoured-Web and Worldheart first passes
+- [ ] test_sweep v2 (node cwd = root, incremental JSON, `--repeat`). See its DEVNOTES
 
 ## Next up
 
-Start the first bug-hunt pass. Import a snapshot of each target repo, run static checks, read the main files, then write up findings in `bug-reports/<repo>/`.
+Either the Elythia second pass or the Devoured-Web first pass. Check Elythia#1/#2 for replies first.
+
+## Gotchas learned
+
+- Elythia is **private** and this repo is **public**: don't copy private source here, and quote only what a bug report needs.
+- Elythia never edits history, it appends `_fixed`/new experiments. Send fixes there as issues or additive PRs, never as in-place edits.
+- Elythia Node tests run **from the repo root**.
+- The `mcp__github__` list/search tools failed to resolve Elythia (private). The `gh api` REST calls worked.
 
 ## Open questions for Dylan
 
