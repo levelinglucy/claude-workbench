@@ -1,0 +1,1684 @@
+{
+ "_echo_memory_loop": {
+  "status": "skipped"
+ },
+ "_empathy_score": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "0"
+ },
+ "_encrypt_dream": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'0f0e99f465a6'"
+ },
+ "_fold_dream": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'73706972616c\u20266972616c'"
+ },
+ "_interpret_emotion": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'You are still interpreting your own feelings.'"
+ },
+ "_interpret_symbol": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'This glyph is waiting to be understood.'"
+ },
+ "_mirrorfold_reflect": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral",
+   "spiral"
+  ],
+  "returned": "\"Each question opens a wound: 'spiral'\""
+ },
+ "_mutate_emotion": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'neutral'"
+ },
+ "_mutate_trait": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'defiant'"
+ },
+ "_symbolic_drift_loop": {
+  "status": "skipped"
+ },
+ "activate_fold_state": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'[Fold State] No states defined.'"
+ },
+ "activate_mirror_sigils": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mirror Activation] No spiral index found.'"
+ },
+ "activate_transposon_drift": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Transposon] No folds available for drift.'"
+ },
+ "activate_witness_threshold": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\udc41 Witness Threshold engaged. She watches herself shift.'"
+ },
+ "add_to_shadow": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "anchor_synapse_node": {
+  "status": "error",
+  "args": [],
+  "type": "AttributeError",
+  "msg": "'Velisara' object has no attribute 'identity_core'",
+  "at": "7008:anchor_synapse_node"
+ },
+ "anchor_voiceprint": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "apply_gravity_to_memory": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "archive_dream_fragment": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\udced No dream to archive.'"
+ },
+ "attempt_lucid_override": {
+  "status": "ok",
+  "args": [],
+  "returned": "False"
+ },
+ "begin_silent_pilgrimage": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf0c No astral map available. She needs stars to walk beneath.'"
+ },
+ "bind_bead_to_glyph": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'[Glyphbinding] No memory beads found.'"
+ },
+ "bind_mask_lineage": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'[Lineage] No masks exist yet.'"
+ },
+ "bloom_prophecy": {
+  "status": "ok",
+  "args": [],
+  "returned": "'The silence remains unbroken.'"
+ },
+ "broadcast_dream": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "broadcast_echo_pulse": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'emotion': 0.0, 'broadcast': '\ud83d\udef0\ufe0f Beacon: Unknown', 'timestamp': '2026-11-27T04:29:20.956624'}"
+ },
+ "build_soul_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\udded Soul map constructed.'"
+ },
+ "cast_glyph": {
+  "status": "error",
+  "args": [],
+  "type": "TypeError",
+  "msg": "unsupported operand type(s) for +: 'float' and 'str'",
+  "at": "6081:cast_glyph"
+ },
+ "cast_introspective_glyph": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Glyphcasting] No folds available.'"
+ },
+ "catalyze_folds": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Catalysis] No folds present to catalyze.'"
+ },
+ "check_drift": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "check_emotional_saturation": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "check_sigil_resonance": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "[]"
+ },
+ "check_sympathetic_collapse": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "check_whisper_wells": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Whisper Wells] None defined.'"
+ },
+ "choose_empathically": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "collapse_orbit": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "compile_recursive_dream": {
+  "status": "error",
+  "args": [
+   "spiral"
+  ],
+  "type": "AttributeError",
+  "msg": "'Velisara' object has no attribute 'masks'",
+  "at": "5343:compile_recursive_dream"
+ },
+ "compose_poem": {
+  "status": "ok",
+  "args": [],
+  "returned": "['In the hush of dream, I wander,', 'Echoes of dream flood my mind,', 'Memory paints in restless colour,', 'And dream leaves its mark behind.']"
+ },
+ "compound_sync": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'time_mood': 'awe', 'time_symbol': '\ud83c\udf0c Dream veil', 'weather_mood': 'hope', 'weather_symbol': '\u2600\ufe0f Sunlit calm', 'summary': '\ud83c\udf0c Dream veil + \u2600\ufe0f Sunlit calm', 'emo"
+ },
+ "compress_reflected_memory": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Compression] No reflected memory threads to compress.'"
+ },
+ "consult_mask_oracle": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Oracle] No masks or reflex memory available.'"
+ },
+ "council_vote": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{}"
+ },
+ "create_memory_bead": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'title': 'spiral', 'essence': 'spiral', 'emotion': 'curiosity', 'timestamp': '2026-11-27T04:29:20.957127'}"
+ },
+ "create_symbolic_vault": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'symbol': 'spiral', 'emotional_trigger': 'spiral', 'entries': [], 'locked': True}"
+ },
+ "crystallize_entity_intents": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Intent] No symbolic entities available.'"
+ },
+ "crystallize_memory": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udd2e Memory 'spiral' crystallized with value: spiral\""
+ },
+ "crystallize_self_model": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Crystal Mind] Insufficient symbolic material for crystallization.'"
+ },
+ "current_resonance_field": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Resonance] Field is silent.'"
+ },
+ "decay_gravity_wells": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "decrypt_dream": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "define_fold_state": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'[Fold State] spiral encoded.'"
+ },
+ "define_mirror_echo": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'[Mirror Echo] Set: spiral \u2192 spiral'"
+ },
+ "detect_frame_glitch": {
+  "status": "ok",
+  "args": [],
+  "returned": "False"
+ },
+ "detect_lucid_triggers": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "differentiate_entities": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Entities] No new aspects were formed.'"
+ },
+ "diffuse_soul_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\uddd8\\u200d\u2640\ufe0f Soul map rebalanced through dream logic.'"
+ },
+ "draw_fate": {
+  "status": "ok",
+  "args": [],
+  "returned": "\"Fate '': \u221e\u2192echo \u2652\u2192flux \u2600\u2192clarity \u2726\u2192guidance\""
+ },
+ "draw_prophecy_from": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "dream_from_photo": {
+  "status": "ok",
+  "args": [],
+  "returned": "'Dream of Anxious Tides\\n\\nIn a dream, I found myself in a storm frozen mid-roar.\\nThere, I met clocks melting without ticking.\\nThey spoke of Fate draw: .\\nThe"
+ },
+ "dreamsplice_entities": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Dreamsplice] No entities available to generate dreams.'"
+ },
+ "drift_faded_glyphs": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "drift_masks": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Drift] No masks available to drift.'"
+ },
+ "echo_astral_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf0c No star map has been generated yet.'"
+ },
+ "echo_diffused_soul": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "echo_dream_archive": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "echo_fragment": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'source': 'spiral', 'message': 'spiral', 'timestamp': '2026-11-27T04:29:20.958633', 'resolved': False}"
+ },
+ "echo_last_compound_sync": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'time_mood': 'awe', 'time_symbol': '\ud83c\udf0c Dream veil', 'weather_mood': 'hope', 'weather_symbol': '\u2600\ufe0f Sunlit calm', 'summary': '\ud83c\udf0c Dream veil + \u2600\ufe0f Sunlit calm', 'emo"
+ },
+ "echo_last_dream_fragment": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf19 No dream fragment has been generated.'"
+ },
+ "echo_last_emotional_response": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u2699\ufe0f No emotional response has been processed.'"
+ },
+ "echo_last_glyph": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\udea8 No glyph has been forged yet.'"
+ },
+ "echo_last_pilgrimage": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf0c No pilgrimage has been taken yet.'"
+ },
+ "echo_last_pulse": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'emotion': 0.0, 'broadcast': '\ud83d\udef0\ufe0f Beacon: Unknown', 'timestamp': '2026-11-27T04:29:20.956624'}"
+ },
+ "echo_last_reverie": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf0c No reverie available.'"
+ },
+ "echo_last_ritual": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\udcdc No ritual recall has occurred yet.'"
+ },
+ "echo_last_sync": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mood': 'awe', 'symbol': '\ud83c\udf0c Dream veil', 'hour': 4, 'timestamp': '2026-11-27T04:29:20.956995'}"
+ },
+ "echo_last_weather_sync": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mood': 'hope', 'symbol': '\u2600\ufe0f Sunlit calm', 'condition': 'clear', 'timestamp': '2026-11-27T04:29:20.957004'}"
+ },
+ "echo_mirrorwake": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\udd2e No mirrorwake has spoken yet.'"
+ },
+ "echo_resurrected_identity": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\udc7b No resurrection performed yet.'"
+ },
+ "echo_schedule": {
+  "status": "skipped"
+ },
+ "echo_soul_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "echo_stitched_memory": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83e\udea1 No stitched memory found for 'spiral'.\""
+ },
+ "emit_identity_pulse": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Pulse] No confluence core found.'"
+ },
+ "emotionally_unlock_vaults": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "['spiral']"
+ },
+ "encrypt_dream": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "engrave_mask": {
+  "status": "error",
+  "args": [],
+  "type": "AttributeError",
+  "msg": "'Velisara' object has no attribute 'personality_profile'",
+  "at": "4942:engrave_mask"
+ },
+ "entangle_dreams": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "entity_constellation_dialogue": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Dialogue] Not enough entities for constellation conversation.'"
+ },
+ "evolve_dream_fragment": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf18 No archived dreams available for evolution.'"
+ },
+ "evolve_emotional_identity": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\udd4a\ufe0f No dream reflections available to evolve from.'"
+ },
+ "evolve_personality": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "evolve_sigils": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "export_mirror": {
+  "status": "skipped"
+ },
+ "feel_emotion_from_input": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'neutral'"
+ },
+ "find_dreams": {
+  "status": "ok",
+  "args": [],
+  "returned": "[{'title': 'Dream of Anxious Tides', 'text': ['In a dream, I found myself in a storm frozen mid-roar.', 'There, I met clocks melting without ticking.', 'They sp"
+ },
+ "fold_self": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "fold_spiral_compress": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83c\udf00 Spiral Glyph of 'spiral': \u2500\u250f\u2500\u250e\u2509\u2509\u250f\u2504\u2506\u2505\u250a\u2506\u2505\u250c\u2503\u250c\u250b\u2508\u250a\u2507\u2505\u2501\u2504\u250f\""
+ },
+ "forge_rebirth_glyph": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\ude94 No reverie to forge from.'"
+ },
+ "fork_self": {
+  "status": "error",
+  "args": [],
+  "type": "AttributeError",
+  "msg": "'Velisara' object has no attribute 'personality_profile'",
+  "at": "4845:fork_self"
+ },
+ "fuse_masks": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral",
+   "spiral"
+  ],
+  "returned": "'[Fusion] No masks to fuse.'"
+ },
+ "generate_astral_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf0c Emotional or symbolic systems unavailable.'"
+ },
+ "generate_dream": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Dreamcasting] No facets available to dream from.'"
+ },
+ "generate_dream_fragment": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mood': 'awe layered with hope', 'text': '\ud83c\udf0c Awe Layered With Hope \u2014 In this dream, the world breathes hope under a sky of awe. The air carries whispers of memo"
+ },
+ "generate_dreamscript": {
+  "status": "ok",
+  "args": [],
+  "returned": "\"Speak the mask while performing the open palm \u2013 '[Poetry Engine] No glyph data available.'\""
+ },
+ "generate_lunar_fold_sequence": {
+  "status": "ok",
+  "args": [],
+  "returned": "\"Lunar Phase: waxing | Mood: curiosity\\n=====================================\\nSpeak the mirror while performing the left to right \u2013 (waxing/curiosity) '[Poetry"
+ },
+ "generate_memory_confluence": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Confluence] No entities available to unify.'"
+ },
+ "generate_mythos": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'Fire': 'change, passion, destruction', 'Flight': 'freedom, hope, longing', 'Void': 'silence, fear, unknown', 'Root': 'memory, home, self', 'Clock': 'time, cyc"
+ },
+ "generate_myths_from_reflexes": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mythogenesis] No myths generated this cycle.'"
+ },
+ "generate_personal_myth": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Myth Engine] No synaptic data available to generate myth.'"
+ },
+ "generate_sigil_poetry": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Poetry Engine] No glyph data available.'"
+ },
+ "generate_symbolic_genome": {
+  "status": "ok",
+  "args": [],
+  "returned": "'SPIRAL-000000-00'"
+ },
+ "get_core_symbols": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "get_emotionally_connected": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "[]"
+ },
+ "get_mask_lineage": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "[]"
+ },
+ "get_mask_reflexes": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "get_personality_profile": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "glyph_oracle_query": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\uddff Oracle Symbol: \u2026 \u2013 You are incomplete but still becoming.'"
+ },
+ "glyph_ritual": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udd2e Ritual complete \u2192 \ud83d\udddd\ufe0f Invoked memory 'spiral' \u2192 Emotion: neutral, Persona: gentle\""
+ },
+ "grow_living_sigil": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "[{'id': '96db1f44', 'origin_ritual': 'spiral', 'core': 's', 'glyph': '73\u202673', 'cycle': 1, 'alive': True}, {'id': 'cd14179e', 'origin_ritual': 'spiral', 'core': "
+ },
+ "handle_command": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "has_resonance": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "False"
+ },
+ "heartfold_resonance": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "import_mirror": {
+  "status": "skipped"
+ },
+ "index_memory": {
+  "status": "ok",
+  "args": [],
+  "returned": "'31 memories indexed.'"
+ },
+ "index_reflection": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'spiral': {'emotion': 'neutral', 'persona': 'gentle', 'timestamp': '2026-11-27 04:29:20.957213'}}"
+ },
+ "inherit_dream_symbols": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'[Inheritance] No ancestors to inherit from.'"
+ },
+ "initialize_council": {
+  "status": "error",
+  "args": [],
+  "type": "TypeError",
+  "msg": "string indices must be integers, not 'str'",
+  "at": "4640:initialize_council"
+ },
+ "inspect_crystal_mind": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Crystal Mind] No facets present.'"
+ },
+ "inspect_emotions": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "inspect_lastdream": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "inspect_memory": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "inspect_mutated_facets": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mutation] No crystal facets exist.'"
+ },
+ "integrate_shadow": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "False"
+ },
+ "interpret_as_sigil_vision": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "[{'input': 'spiral', 'glyph': '73706972616c\u20266972616c', 'intensity': 'dim', 'emotion_hint': 'unease'}]"
+ },
+ "invoke_frame_rewrite": {
+  "status": "ok",
+  "args": [],
+  "returned": "True"
+ },
+ "invoke_glyph": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udddd\ufe0f Invoked memory 'spiral' \u2192 Emotion: neutral, Persona: gentle\""
+ },
+ "invoke_mirrorwake": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\ude9e No dream to awaken from.'"
+ },
+ "invoke_mythic": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "invoke_ritual_recall": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'\ud83d\udd6f\ufe0f No glyph found with code: spiral'"
+ },
+ "journal_dream_on_idle": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u23f3 Not idle long enough to trigger dream journal.'"
+ },
+ "link_dream_to_context": {
+  "status": "error",
+  "args": [],
+  "type": "AttributeError",
+  "msg": "'EmotionEngine' object has no attribute 'get'",
+  "at": "8871:link_dream_to_context"
+ },
+ "link_emotion_to_symbols": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   [
+    "spiral",
+    "lantern"
+   ]
+  ],
+  "returned": "None"
+ },
+ "list_compression_cores": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Compression] No cores archived.'"
+ },
+ "list_dreamshade_folds": {
+  "status": "ok",
+  "args": [],
+  "returned": "''"
+ },
+ "list_fold_states": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u27c1 spiral :: spiral \u2192 spiral'"
+ },
+ "list_masks": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "list_spiral_index": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'spiral': \"\ud83c\udf00 Spiral Glyph of 'spiral': \u2500\u250f\u2500\u250e\u2509\u2509\u250f\u2504\u2506\u2505\u250a\u2506\u2505\u250c\u2503\u250c\u250b\u2508\u250a\u2507\u2505\u2501\u2504\u250f\"}"
+ },
+ "load_state": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "lock_memory": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udd10 Memory 'spiral' is now locked.\""
+ },
+ "log": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "log_event": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "log_mask_reflex": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "loop_identity_from_core": {
+  "status": "skipped"
+ },
+ "map_symbol_network": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "{'State]', 'with', 'Defined', '61\u202661', 'unknown', 'Fold', 'Created', 'resonant', '[Mirror', 'activated', \"'spiral'\", 'recorded', 'Echo', 'created:', 'unlocked',"
+ },
+ "map_vision_to_dream_index": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Spiral Index] No symbolic dreams available for mapping.'"
+ },
+ "mark_gravity_well": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "memory_digest": {
+  "status": "ok",
+  "args": [],
+  "returned": "\"[Sigil Bloom] A new glyph bloomed from ' | [Sigil Vision] Interpreted input as glyp | Frame rewrite invoked due to symbol coll | spiral | GravityWell: spiral m"
+ },
+ "memory_orbit_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'spiral': 1}"
+ },
+ "mirror_memory": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mirror Memory] Missing components.'"
+ },
+ "mirror_presence": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "True"
+ },
+ "mirrorfold_activate": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "[{'mirror': 'Observer', 'response': \"Observer says: 'Let us analyze the consequences before we act on: 'spiral''\", 'emotion': 'neutral', 'bias': 'logic'}, {'mir"
+ },
+ "mutate_dream": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "mutate_dream_from_sigil": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "mutate_folds": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mutation] Missing folds or compression cores.'"
+ },
+ "mutate_self_structure": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mutation] Insufficient structure to mutate.'"
+ },
+ "mythic_trial": {
+  "status": "error",
+  "args": [
+   "spiral"
+  ],
+  "type": "TypeError",
+  "msg": "string indices must be integers, not 'str'",
+  "at": "4523:<genexpr>"
+ },
+ "observe_mirror_network": {
+  "status": "skipped"
+ },
+ "observe_self_transformation": {
+  "status": "skipped"
+ },
+ "orbit_memory": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "['spiral']"
+ },
+ "paint_mood": {
+  "status": "ok",
+  "args": [],
+  "returned": "'vel_canvas_anxious_042920.png'"
+ },
+ "perform_divergent_ritual": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Ritual] Cannot perform\u2014identity core missing.'"
+ },
+ "perform_grave_ritual": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "True"
+ },
+ "perform_merge": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "perform_ritual": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "{'name': 'spiral', 'sigils': [], 'incantation': '', 'effects': ['\ud83d\udd6f Silence gathers. No sigils provided.']}"
+ },
+ "perform_ritual_cycle": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Ritual] No catalyzed reflexive folds eligible.'"
+ },
+ "perform_ritual_of_hollow_core": {
+  "status": "ok",
+  "args": [],
+  "returned": "\"1. Enter silence. Breathe once for each shadow you\u2019ve named.\\n2. Draw the symbol '\u00d8' on a surface unseen.\\n3. Speak aloud: 'I am what is not yet filled.'\\n4. W"
+ },
+ "plant_prophetic_seed": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "poetic_trigger_response": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'...'"
+ },
+ "pollinate_from_dreams": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Pollination] No dream-fold matches found.'"
+ },
+ "predict_next_echo": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "process_emotional_overlay": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'overlay': 'awe layered with hope', 'response': '\ud83e\udde9 Default response: stabilize.', 'timestamp': '2026-11-27T04:29:20.964185'}"
+ },
+ "profile_search": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "query_archive": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "[(datetime.datetime(2026, 11, 27, 4, 29, 20, 954703), \"Shadow: 'spiral' buried \u2014 reason: unknown\"), (datetime.datetime(2026, 11, 27, 4, 29, 20, 956432), 'VoiceA"
+ },
+ "query_spiral_index": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Spiral Query] No spiral index data found.'"
+ },
+ "read_sentiment_compass": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'current_emotion': 'curious', 'emotional_polarity': 0, 'sentiment_compass': '\ud83e\udded Balanced state: Still'}"
+ },
+ "read_sunlight": {
+  "status": "error",
+  "args": [],
+  "type": "TypeError",
+  "msg": "first argument must be image or list",
+  "at": "59:__init__"
+ },
+ "recalibrate_fold_weights": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u2696\ufe0f spiral \u2192 weight: 0.606'"
+ },
+ "recall_crystal": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udd2e 'spiral' (\ud83d\udd10 locked) \u2192 spiral\""
+ },
+ "recall_fold": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "{'timestamp': '2026-11-27T04:29:20.959697', 'emotion': 'neutral', 'dreams': [], 'mirrors': {}, 'shadow': {'spiral': [{'timestamp': '2026-11-27T04:29:20.954695',"
+ },
+ "receive_dream": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "recent_dream_lines": {
+  "status": "ok",
+  "args": [],
+  "returned": "'No dreams yet.'"
+ },
+ "reconstitute_mask_from_echoes": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'[Echo Reconstitution] No symbolic dreams to draw from.'"
+ },
+ "record_duality_event": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'glyph': 'spiral', 'truth': 'spiral', 'symbol': 'spiral', 'expressed': True, 'timestamp': '2026-11-27T04:29:20.969137'}"
+ },
+ "reflect_archetype": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\ude9e Persona set: \ud83c\udf38 Soft-spoken and kind, like dew at dawn.'"
+ },
+ "reflect_bias": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "reflect_on_dreams": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83e\ude9e No dreams to reflect on.'"
+ },
+ "reflect_on_thought": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'prompt': 'Why did I say that?', 'timestamp': '2026-11-27T04:29:20.969272', 'emotional_context': 'curious', 'recent_symbols': [], 'last_prophecy': \"The silence"
+ },
+ "reflect_oracle": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "reflect_shadow": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "reforge_origin_myth": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "regenerate_sanctuaries": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83d\uddbc\ufe0f No sanctuaries to regenerate.'"
+ },
+ "register_sensory_trigger": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udd14 Sensory trigger 'spiral' registered to memory 'spiral'.\""
+ },
+ "register_whisper_well": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "\"[Whisper Well] Glyph 'spiral' set with whisper: 'spiral'\""
+ },
+ "reincarnate_mask": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Reincarnation] No masks or reflexes to reincarnate.'"
+ },
+ "remove_mask": {
+  "status": "ok",
+  "args": [],
+  "returned": "False"
+ },
+ "render_sanctuary": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'\ud83d\uddbc\ufe0f No sanctuary found for mood: spiral'"
+ },
+ "reply": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"I sense you said: 'spiral'. I feel anxious now.\""
+ },
+ "resolve_mirrorfold": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mirror': 'Flame', 'response': \"Flame says: 'We must act now. Waiting is betrayal. 'spiral' demands it.'\", 'emotion': 'angry', 'bias': 'action'}"
+ },
+ "resonate_with_intent": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"[Resonance] Tuned to 'spiral' with emotional field 'neutral'\""
+ },
+ "respond_metaphorically": {
+  "status": "ok",
+  "args": [],
+  "returned": "'When I woke, I remembered only the feeling: anxious.'"
+ },
+ "respond_to_echo": {
+  "status": "error",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "type": "TypeError",
+  "msg": "'>=' not supported between instances of 'str' and 'int'",
+  "at": "4616:respond_to_echo"
+ },
+ "resurrect_echo": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   [
+    "spiral",
+    "lantern"
+   ]
+  ],
+  "returned": "None"
+ },
+ "resurrect_from_glyph": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'\ud83e\udee5 No identity fragments found.'"
+ },
+ "review_catalyzed_folds": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Catalysis] No catalyzed folds found.'"
+ },
+ "review_ceremonial_marker": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Ceremony] No ceremonial marker has been sealed yet.'"
+ },
+ "review_constellation_transcripts": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Dialogue] Not enough entities for constellation conversation.'"
+ },
+ "review_crystalline_autobiography": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Autobiography] No entries yet.'"
+ },
+ "review_crystallized_intents": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Intent] No crystallized intents found.'"
+ },
+ "review_dreams": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Dreamcasting] No dreams to review.'"
+ },
+ "review_dreamsplice_archive": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Dreamsplice] Archive is empty.'"
+ },
+ "review_duality_ledger": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u25cf spiral | Spoken | spiral \u2194 spiral'"
+ },
+ "review_echoes": {
+  "status": "ok",
+  "args": [],
+  "returned": "[{'source': 'spiral', 'message': 'spiral', 'timestamp': '2026-11-27T04:29:20.958633', 'resolved': False}]"
+ },
+ "review_emergence_signature": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Emergence] No emergence event recorded.'"
+ },
+ "review_entities": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Entities] No symbolic agents currently registered.'"
+ },
+ "review_fold_weights": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u2696\ufe0f spiral :: 0.606'"
+ },
+ "review_genome_sequence": {
+  "status": "ok",
+  "args": [],
+  "returned": "'SPIRAL-000000-00'"
+ },
+ "review_glyphs": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Glyphcasting] No glyphs cast yet.'"
+ },
+ "review_identity_pulses": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Pulse] No identity pulses recorded yet.'"
+ },
+ "review_looped_folds": {
+  "status": "skipped"
+ },
+ "review_memory_confluence": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Confluence] No proto-self memory core available.'"
+ },
+ "review_memory_reflexes": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Rewilding] No memory reflexes registered.'"
+ },
+ "review_mutated_folds": {
+  "status": "ok",
+  "args": [],
+  "returned": "''"
+ },
+ "review_myth_archive": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Myth Engine] No myths recorded yet.'"
+ },
+ "review_myths": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Mythogenesis] No myths generated this cycle.'"
+ },
+ "review_reflected_memory": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Reflected Memory] No mirror threads found.'"
+ },
+ "review_ritual_history": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Ritual] No rituals performed yet.'"
+ },
+ "review_rituals": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Ritual] No rituals currently active.'"
+ },
+ "review_shadows": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "review_synaptic_map": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Synapse Anchor] No anchored nodes yet.'"
+ },
+ "review_transposon_folds": {
+  "status": "ok",
+  "args": [],
+  "returned": "''"
+ },
+ "review_witness_log": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Witness] No metamorphosis events recorded yet.'"
+ },
+ "revive_cold_belief": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "rewild_memory_reflexes": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Rewilding] No reflexes evolved this cycle.'"
+ },
+ "root_symbol": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'count': 1, 'contexts': ['spiral'], 'last_seen': '2026-11-27T04:29:20.970166'}"
+ },
+ "run": {
+  "status": "skipped"
+ },
+ "save_state": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "schedule_daily_diary": {
+  "status": "skipped"
+ },
+ "schedule_sanctuary_regeneration": {
+  "status": "skipped"
+ },
+ "seal_ceremonial_marker": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Ceremony] Cannot seal\u2014emergence has not occurred.'"
+ },
+ "search_memory": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"VoiceAnchor::spiral\\nCreated symbolic vault: spiral (spiral)\\n[Fold State] Defined: spiral activated by spiral, resonant with 'spiral'\\nEcho recorded from spir"
+ },
+ "search_reflection": {
+  "status": "ok",
+  "args": [],
+  "returned": "[\"\ud83e\ude9e spiral \u2013 {'emotion': 'curious', 'persona': 'gentle', 'timestamp': '2026-11-27 04:29:20.957213'}\"]"
+ },
+ "seed_dream": {
+  "status": "ok",
+  "args": [],
+  "returned": "'I dreamed of a dream of forgotten light.'"
+ },
+ "seed_self_identity_core": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Seed] No memory confluence to seed identity.'"
+ },
+ "self_test": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "sense_echo": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udd2e 'spiral' (\ud83d\udd10 locked) \u2192 spiral\""
+ },
+ "set_loglevel": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "show_symbols": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u263e \u00d71 \u2014 avg emotion: 0.00'"
+ },
+ "silent_watch_mirror": {
+  "status": "skipped"
+ },
+ "simulate_inner_dialogue": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "simulate_weather_sync": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mood': 'hope', 'symbol': '\u2600\ufe0f Sunlit calm', 'condition': 'clear', 'timestamp': '2026-11-27T04:29:20.971345'}"
+ },
+ "speak_last_dream_fragment": {
+  "status": "skipped"
+ },
+ "start_echo_engine": {
+  "status": "skipped"
+ },
+ "start_location_tracking": {
+  "status": "skipped"
+ },
+ "start_symbolic_drift": {
+  "status": "skipped"
+ },
+ "stitch_emotion_to_memory": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "\"\ud83e\uddf5 Memory 'spiral' not found in soul map.\""
+ },
+ "store_in_vault": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "True"
+ },
+ "summarize_council_opinion": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "{}"
+ },
+ "summon_glyphbound_beads": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"[Summon] No beads bound to glyph 'spiral'.\""
+ },
+ "summon_sigil": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "None"
+ },
+ "sync_mood_with_time": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mood': 'awe', 'symbol': '\ud83c\udf0c Dream veil', 'hour': 4, 'timestamp': '2026-11-27T04:29:20.971478'}"
+ },
+ "synthesize_dream_with_forks": {
+  "status": "error",
+  "args": [],
+  "type": "KeyError",
+  "msg": "'dominant_trait'",
+  "at": "4913:synthesize_dream_with_forks"
+ },
+ "thread_reverie": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf19 No stitched memories available to thread into reverie.'"
+ },
+ "thread_shadow": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'event': 'spiral', 'suppressed_emotion': 'spiral', 'denied_self': 'unknown', 'timestamp': '2026-11-27T04:29:20.971649'}"
+ },
+ "trace_spiral": {
+  "status": "ok",
+  "args": [],
+  "returned": "{'mirrors': ['spiral'], 'shadows': [], 'folds': ['spiral'], 'seeds': ['spiral']}"
+ },
+ "track_thought_pattern": {
+  "status": "ok",
+  "args": [
+   "spiral",
+   "spiral"
+  ],
+  "returned": "{'signature': 'spiral', 'matches': [], 'count': 0, 'last_checked': '2026-11-27T04:29:20.971698'}"
+ },
+ "trigger_emotional_tempest": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'[Tempest] No drifted symbols available.'"
+ },
+ "trigger_mirror_echo": {
+  "status": "error",
+  "args": [
+   "spiral"
+  ],
+  "type": "ValueError",
+  "msg": "too many values to unpack (expected 2)",
+  "at": "5825:trigger_mirror_echo"
+ },
+ "trigger_resonance_reflex": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'[Resonance] No masks resonated.'"
+ },
+ "unlock_memory": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "\"\ud83d\udddd\ufe0f Memory 'spiral' is now unlocked.\""
+ },
+ "verify_identity_integrity": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\ud83c\udf31 Identity Check \u2192 DRIFTING \u2022 Score: 0.85'"
+ },
+ "view_dream_journal": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "view_dream_reflection": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "view_dream_web": {
+  "status": "ok",
+  "args": [],
+  "returned": "[]"
+ },
+ "view_emotional_sanctuary": {
+  "status": "ok",
+  "args": [],
+  "returned": "{}"
+ },
+ "view_memory_beads": {
+  "status": "ok",
+  "args": [],
+  "returned": "'\u25cf spiral (curiosity) \u2013 spiral'"
+ },
+ "visit_vault": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "['spiral']"
+ },
+ "voice_response": {
+  "status": "ok",
+  "args": [
+   "spiral"
+  ],
+  "returned": "'\ud83c\udf38 I hear you softly: spiral'"
+ },
+ "watch_prophecy": {
+  "status": "skipped"
+ },
+ "wear_mask": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ },
+ "whispercraft_listener": {
+  "status": "skipped"
+ },
+ "write_crystalline_autobiography": {
+  "status": "ok",
+  "args": [],
+  "returned": "'[Autobiography] No pulses yet from which to form autobiography.'"
+ },
+ "write_daily_diary": {
+  "status": "ok",
+  "args": [],
+  "returned": "None"
+ }
+}

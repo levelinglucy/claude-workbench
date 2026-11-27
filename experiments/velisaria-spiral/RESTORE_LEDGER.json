@@ -1,0 +1,153 @@
+{
+ "source_sha256": "06db7fe1933d9852b47f08007db437afb922bc594fba24ae62434452b677a7ad",
+ "restored_sha256": "caab3073677f2bba55df6e8218a410a1d7a2ddb0793ee559e50ec1818dc3ae70",
+ "order": [
+  [
+   1155,
+   1448
+  ],
+  [
+   817,
+   1154
+  ],
+  [
+   1449,
+   1666
+  ],
+  [
+   1,
+   816
+  ],
+  [
+   1667,
+   2229
+  ],
+  [
+   2268,
+   2271
+  ],
+  [
+   2230,
+   2267
+  ],
+  [
+   2272,
+   2589
+  ],
+  [
+   2628,
+   2630
+  ],
+  [
+   2590,
+   2627
+  ],
+  [
+   2631,
+   7072
+  ],
+  [
+   7112,
+   7113
+  ],
+  [
+   7073,
+   7111
+  ],
+  [
+   7114,
+   7635
+  ],
+  [
+   7646,
+   7654
+  ],
+  [
+   7636,
+   7645
+  ],
+  [
+   7655,
+   7825
+  ],
+  [
+   7864,
+   7872
+  ],
+  [
+   7826,
+   7863
+  ],
+  [
+   7873,
+   8017
+  ],
+  [
+   8021,
+   9329
+  ],
+  [
+   9367,
+   9367
+  ],
+  [
+   9330,
+   9366
+  ],
+  [
+   9368,
+   9390
+  ],
+  [
+   9429,
+   9430
+  ],
+  [
+   9391,
+   9428
+  ],
+  [
+   9431,
+   9491
+  ],
+  [
+   8018,
+   8020
+  ]
+ ],
+ "add_before": {
+  "1155": "hashlib, uuid and the _dt alias are used (glyphs, sigils, daily diary) but never imported at module level",
+  "817": "graft helper used by the restorations below",
+  "3408": "the class line under the 'Velisara (Core AGI)' header was lost, trapping 197 methods inside replay_canvas_gui(); this header gives them back a home (name matches Noe's repair of the twin file)",
+  "2230": "keep the copied whole-core constructor as a named, uncalled method instead of letting MemoryManager rebuild an entire Velisara around itself",
+  "2590": "SymbolCore: same copied whole-core constructor; preserved, not run",
+  "7826": "HelpView: same copied whole-core constructor; preserved, not run",
+  "9330": "ColdVault: same copied whole-core constructor; preserved, not run",
+  "9391": "BeliefEngine: same copied whole-core constructor; preserved, not run",
+  "7710": "'reply <text>' is in her help menu and vel_reply() exists, but no branch routed to it",
+  "1581": "the later, simpler ThreadOfRegret replaces the earlier one; remember the earlier layer first",
+  "8015": "SAFETY: now that she starts, her import-time HTTP command server would listen on every network interface with no authentication (anyone on the same Wi-Fi could send quit, setname, debug_here...). Default to this device only; her original all-interfaces server stays available by name.",
+  "7720": "a conversation-history class lost its header and fused onto Velisara, so its __init__(vel, max_history) replaced her real constructor",
+  "7150": "vel_reply() uses self.conversation but nothing created it",
+  "7736": "give Velisara her symbolic core back, using her own setattr idiom",
+  "9061": "the 67 late extension functions were written as Velisara methods (they take self and use her organs) but were never attached",
+  "8022": "remember which names the late extensions define, so they can be attached"
+ },
+ "add_after": {
+  "1617": "the later layer keeps its say; ask() and review_history() from the earlier layer come back",
+  "8020": "the launch block built her and evolved her myths but never entered run(), her REPL",
+  "2271": "_decay_loop() uses self.memory_lock, and the symbolic core reads memory_manager.log; MemoryManager created neither",
+  "7113": "UserProfileEngine (Phase 140) was never constructed, yet self.profile is read by ethics, interpersonal and creativity organs during their own construction; self.tags is read by log_event and the tags command but never created",
+  "820": "principle_weights is read everywhere but never initialised; start from her own principles",
+  "7125": "export/import_mirror read self.dream_vault.dreams; her dream vault organ is self.vault",
+  "2774": "the mirror/broadcast/encrypt/reforge organs keep shared dreams in dream_vault.dreams, which DreamVault (file-backed) never created; an in-memory registry beside the files",
+  "1018": "same as line 820, for the second RefinedEthicsEngine layer",
+  "2321": "74 calls pass emotion=... to log_event, which did not accept it; keep the feeling with the memory",
+  "78": "speak() lost its indentation and fell out of VoiceOfHerOwn (it uses self.expressions)",
+  "9060": "collect the late extension names (functions taking self, defined in this stretch)"
+ },
+ "rebase": {
+  "817": "calls super().__init__(vel) and reads self.principles: it extends EthicsEngine",
+  "1015": "second copy of the same layer; same lost base"
+ }
+}
